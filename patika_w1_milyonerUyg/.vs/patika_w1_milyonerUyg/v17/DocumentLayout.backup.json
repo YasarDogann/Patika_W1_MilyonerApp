@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week1\\patika_w1_milyonerUyg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAA5D93-77E7-40CC-B8EF-E6D41EE295C5}|patika_w1_milyonerUyg\\patika_w1_milyonerUyg.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week1\\patika_w1_milyoneruyg\\patika_w1_milyoneruyg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EAA5D93-77E7-40CC-B8EF-E6D41EE295C5}|patika_w1_milyonerUyg\\patika_w1_milyonerUyg.csproj|solutionrelative:patika_w1_milyoneruyg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week1\\patika_w1_milyonerUyg\\patika_w1_milyonerUyg\\Program.cs",
+              "RelativeDocumentMoniker": "patika_w1_milyonerUyg\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\Week1\\patika_w1_milyonerUyg\\patika_w1_milyonerUyg\\Program.cs",
+              "RelativeToolTip": "patika_w1_milyonerUyg\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEsAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:14:26.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

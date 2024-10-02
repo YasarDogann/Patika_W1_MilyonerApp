@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\obj\Debug\net8.0\patika_w1_milyonerUyg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\obj\Debug\net8.0\patika_w1_milyonerUyg.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\obj\Debug\net8.0\patika_w1_milyonerUyg.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\obj\Debug\net8.0\patika_w1_milyonerUyg.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\bin\Debug\net8.0\patika_w1_milyonerUyg.exe
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\bin\Debug\net8.0\patika_w1_milyonerUyg.deps.json
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\bin\Debug\net8.0\patika_w1_milyonerUyg.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\bin\Debug\net8.0\patika_w1_milyonerUyg.dll
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\bin\Debug\net8.0\patika_w1_milyonerUyg.pdb
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\obj\Debug\net8.0\patika_w1_milyonerUyg.dll
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\obj\Debug\net8.0\refint\patika_w1_milyonerUyg.dll
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\obj\Debug\net8.0\patika_w1_milyonerUyg.pdb
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\obj\Debug\net8.0\patika_w1_milyonerUyg.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\Week1\patika_w1_milyonerUyg\patika_w1_milyonerUyg\obj\Debug\net8.0\ref\patika_w1_milyonerUyg.dll
